@@ -1,0 +1,8 @@
+requests
+psutil
+PyJWT
+protobuf
+cfonts
+rich
+urllib3
+google
